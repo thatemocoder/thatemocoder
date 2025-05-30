@@ -1,6 +1,9 @@
 <img src="./header_1.png" alt="Header" width="100%" />
-
-### 👋 Hi, I'm Ujan Pal
+<h1 align="cnter">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Ujan!;">
+  </a>
+</h1>
 
 🎓 **Computer Science Engineering** undergrad at **VIT, Vellore**  
 🔬 Exploring **AI research**, **LLMs**, and **Data-driven systems**  
