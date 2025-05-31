@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+I'm+Ujan!;thatemocoder" alt="Typing SVG" /></a>
 </h1>
 
-🎓 **Computer Science Engineering** undergrad at **VIT, Vellore** | **Data Science and Decisions** incoming grad student at **UNSW, Sydney**    
+🎓 **Computer Science Engineering** undergrad at **VIT, Vellore** | **Data Science and Decisions** incoming postgrad student at **UNSW, Sydney**    
 🔬 Exploring **AI Research**, **LLMs**, and **Data-Driven Systems**  
 ⚙️ Past intern at **ITC Infotech (SAP SD)**, **Valsco Technology (Flutter)**, **F.A.G Technologies (Flask & DS)** & **Sattrix Information Security Pvt Ltd. (ML & DS)**  
 🌊 Currently building **SLA and Deadline-Aware Task Scheduling Using Classification and Hybrid Quantum-Inspired HEFT Optimization in Cloud Environmentsn**  
